@@ -1,0 +1,19 @@
+# datasets transformers sentence-transformers faiss-cpu chromadb rank_bm25
+# accelerate bitsandbytes
+# tqdm pandas scikit-learn
+# hf_xet
+# openai
+
+datasets==2.18.0
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+torch
+nltk
+tqdm
+scikit-learn
+matplotlib 
+seaborn
+evaluate
+hf_xet
