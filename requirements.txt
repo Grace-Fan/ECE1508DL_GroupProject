@@ -1,0 +1,14 @@
+datasets==2.18.0
+sentence-transformers
+faiss-gpu-cu12
+transformers
+accelerate
+torch
+nltk
+tqdm
+scikit-learn
+matplotlib 
+seaborn
+evaluate
+hf_xet
+openai
